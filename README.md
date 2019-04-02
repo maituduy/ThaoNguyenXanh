@@ -1,1 +1,2 @@
-First
+- [Video](https://www.youtube.com/watch?v=2h6Ntu682HQ&feature=youtu.be)
+- Mind Map: ![Map](https://github.com/maituduy/ThaoNguyenXanh/blob/master/images/map.png?raw=true)
